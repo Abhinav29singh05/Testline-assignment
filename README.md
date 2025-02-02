@@ -17,7 +17,11 @@ Assignment from testline
 
 Testline Quiz Application
 
+
 This project is a simple quiz application that fetches questions from an API and allows users to select answers. After submission, users receive immediate feedback with explanations.
+
+Product video
+https://github.com/user-attachments/assets/8affb488-714f-4279-8dfe-d83d1df4e9f1
 
 Features
 
@@ -68,8 +72,7 @@ Screenshots
 5️⃣ Final Score Displayed
 ![Final Score](src/assets/finalscore.png)
 
-Product video
-https://github.com/user-attachments/assets/8affb488-714f-4279-8dfe-d83d1df4e9f1
+
 
 
 Technologies Used:-React.js,React Markdown,CSS
