@@ -1,0 +1,16 @@
+.navbar{
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    height: 5rem;
+    padding: 1rem;
+    border-bottom: 2px solid rgb(21 142 140 / 10%);
+}
+
+img{
+    margin-left: 2rem;
+    height: 4rem;
+    width: 20rem;
+}
