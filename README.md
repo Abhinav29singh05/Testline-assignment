@@ -68,7 +68,8 @@ Screenshots
 5️⃣ Final Score Displayed
 ![Final Score](src/assets/finalscore.png)
 
-
+Video
+(src/assets/Demo.mp4)
 
 
 
