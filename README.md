@@ -34,8 +34,6 @@ Installation
 
 Clone the repository:git clone https://github.com/your-repo/testline-quiz.git
 
-Navigate to the project directory:cd testline-quiz
-
 Install dependencies:npm install
 
 Start the application:npm run dev
@@ -53,22 +51,22 @@ The page scrolls down to show the results.
 Screenshots
 
 1️⃣ Questions Displayed
-
+![Questions Displayed](src/assets/questions1.png)(src/assets/questions2.png)(src/assets/questions3.png)
 
 2️⃣ Correct Option Selected
-
+![Correct Option](src/assets/correct1.png )(src/assets/correct2.png)
 
 
 3️⃣ Incorrect Option Selected
-
+![Incorrect Option](src/assets/incorrect1.png)(src/assets/incorrect2.png)
 
 
 4️⃣ No Option Selected
-
+![No Option Selected](src/assets/no-option1.png)(src/assets/no-option2.png)
 
 
 5️⃣ Final Score Displayed
-
+![Final Score](src/assets/finalscore.png)
 
 
 
